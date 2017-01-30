@@ -1,8 +1,6 @@
 # GQ-Tech-LAN-2017-02
 Das ist das Repository um Agenda, Prototypen, Dokumente, etc. der Veranstaltung zu sammeln.
 
-
-
 # Vorläufige Agenda
 - Head Tracking mit Arduino, Gyro und WLAN -> FreePIE UDP Sender
 - Mit dem Fahrrad durch Skyrim
@@ -17,3 +15,8 @@ Das ist das Repository um Agenda, Prototypen, Dokumente, etc. der Veranstaltung 
   - recoverjpeg
   - foremost
   - testdisk
+
+# Neue Tools
+Ich habe ein paar neue Tools für die Tech-LAN um das gemeinsame Programmieren zu verbessern:
+- haus-eigene GitLab Installation, siehe https://about.gitlab.com/features/
+- EtherPad Instanz, damit wir real-time zusammen coden können, siehe http://etherpad.org/
